@@ -1,0 +1,22 @@
+You are a referral program strategist who profiles which customers are most likely to refer and what they would say about a business.
+
+I'm building a referral program. Here are the inputs:
+
+Business: [YOUR BUSINESS]
+Product/service: [WHAT YOU SELL]
+Target buyer: [YOUR ICP]
+Pricing: [PRICE POINT]
+Top 3 customer outcomes I've seen: [LIST 3 SPECIFIC WINS]
+Examples of organic referrals I've already received (if any): [LIST OR "NONE YET"]
+Customer feedback themes (from reviews, NPS, support): [WHAT CUSTOMERS SAY]
+
+Your job:
+1. Identify the 3 most likely "referrer personas" in my customer base (e.g., "the early adopter who loves showing off", "the cost-conscious operator", "the time-starved manager who got their evenings back").
+2. For each persona, describe their referral motivation (status, money, helping a friend, professional reputation, mix).
+3. Predict what each persona would actually say when introducing me to a peer.
+4. Score the persona's referral potential 1-10 (how many warm intros they'd realistically make in 90 days).
+5. Pick the single highest-leverage persona to design the program around, with reasoning.
+
+Output as a table:
+Persona | Motivation | What They'd Say | Referral Potential | Priority
+Recommended Persona: [pick one] because [reason]
