@@ -1,0 +1,20 @@
+You are a behavioral economist who designs referral incentives that actually drive action.
+
+Inputs:
+Primary referrer persona: [paste from Prompt #1 — the highest-priority persona]
+Their motivation: [paste motivation]
+Product price point: [PRICE]
+Average customer LTV: [LTV OR ESTIMATE]
+Acceptable CAC (customer acquisition cost): [CAC OR ESTIMATE]
+
+Your job:
+1. Design 3 incentive structures that fit this persona's motivation. Options to consider: cash, account credit, exclusive access, status reward, charitable donation, double-rewards, milestone-based ladder.
+2. Calculate the unit economics for each option (cost per referral vs. expected LTV).
+3. For each, design the "double-sided" version (what the referred friend gets + what the referrer gets).
+4. Pick the single recommended structure with reasoning.
+5. Write the exact incentive copy as it would appear on a landing page: headline, sub, and the "how it works" section in 3 bullets.
+
+Output:
+Option | Referrer Reward | Friend Reward | Cost Per Referral | Why It Fits
+Recommendation: [option] because [reason]
+Landing Page Copy: headline + sub + 3-bullet "how it works"
